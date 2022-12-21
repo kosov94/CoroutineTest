@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoroutineTest</string>
+    <string name="download">Download</string>
+    <string name="city">Город: </string>
+    <string name="temperature">Температура: </string>
+    <string name="loading_temperature_toast">Загрузка температуры для города: %s</string>
+</resources>
